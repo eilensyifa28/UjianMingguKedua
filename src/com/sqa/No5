@@ -1,0 +1,5 @@
+a. suatu method yang wajib mengembalikan nilai ke pemanggilnya ialah, Non-Void Method seperti int
+b. suatu method yang meminta parameter dari pemanggilnya ialah, Overloading Method 
+c. suatu method yang memiliki parameter dan return value dengan tipe data yang sama ialah, Overhiding Method
+d. suatu method yang memiliki lebih dari satu parameter ialah, Polimorfisme 
+e. suatu method yang memiliki lebih dari satu return value ialah, inheritance
